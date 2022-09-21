@@ -6,7 +6,8 @@ authors:
 - Rongwu Xu
 - Xinlei Chen
 - Yunhao Liu
-date: "2021-12-06T00:00:00Z"
+date: "2022-06-20T00:00:00Z"
+doi: "10.1109/INFOCOM48880.2022.9796933"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
