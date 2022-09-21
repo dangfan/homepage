@@ -6,23 +6,17 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: ocean
+  theme_night: ocean
+  font: ocean
   font_size: L
 
 # SEO
 
 marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: 'UA-28802291-2'
+    baidu_tongji: '85eae9eba54be9145d674290e9a87ebd'
   verification:
     google: ''
     baidu: ''
@@ -43,12 +37,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© {year} Fan DANG'
 
 # Localization
 

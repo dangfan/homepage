@@ -1,8 +1,7 @@
 ---
 title: Fan DANG
 role: Research Assistant Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include AIoT, edge computing, and mobile security.
 interests:
   - AIoT
   - Edge Computing
@@ -11,18 +10,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=A4G6tEYAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0002-9949-6987
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/dangfan
 organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn
