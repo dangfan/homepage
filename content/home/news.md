@@ -16,6 +16,9 @@ design:
   columns: '2'
 ---
 
+-   **Sep. 25, 2022**
+    Our new paper was accepted by **IEEE ICPADS 2022**.
+
 -   **Sep. 21, 2022**
     Our paper entitled “DeliverSense: Efficient Delivery Drone Scheduling for Crowdsensing with Deep Reinforcement Learning” was selected as **the best paper award of the CPD workshop at Ubicomp 2022**.
 
