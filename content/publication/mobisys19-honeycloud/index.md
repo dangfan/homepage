@@ -28,7 +28,7 @@ abstract: With the wide adoption, Linux-based IoT devices have emerged as one pr
 summary: In this paper, we present our endeavor in understanding fileless attacks on Linux-based IoT devices in the wild. Over a span of twelve months, we deploy 4 hardware IoT honeypots and 108 specially designed software IoT honeypots, and successfully attract a wide variety of real-world IoT attacks. We present our measurement study on these attacks, with a focus on fileless attacks, including the prevalence, exploits, environments, and impacts.
 
 featured: true
-url_slides: '/publication/mobisys19-honeycloud/mobisys19-honeycloud-slides.pdf'
+url_slides: 'publication/mobisys19-honeycloud/mobisys19-honeycloud-slides.pdf'
 url_video: 'https://www.youtube.com/watch?v=NnFcbkXAnTY'
 
 ---
