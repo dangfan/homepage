@@ -4,8 +4,8 @@ authors:
 - admin
 - Lingkun Li
 - Jiajie Chen
-date: "2021-11-12T00:00:00Z"
-# doi: "10.1145/3447993.3483261"
+date: "2021-12-14T00:00:00Z"
+doi: "10.1109/ICPADS53394.2021.00085"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ abstract: As the most widely applied public-key cryptographic algorithm, RSA is 
 # summary: 
 
 featured: true
-# url_slides: '/publication/icpads21-xrsa/slides.pdf'
-# url_video: 'https://youtu.be/qikDbr9ej1g'
+url_slides: '/publication/icpads21-xrsa/slides.pdf'
+url_video: 'https://youtu.be/qikDbr9ej1g'
 
 ---
