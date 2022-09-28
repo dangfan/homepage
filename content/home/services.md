@@ -26,4 +26,4 @@ design:
 
 -   TPC Member of IEEE INFOCOM 2020
 
--   Reviewer for IEEE Transactions on Human-Machine Systems, Sensors Journal
+-   Reviewer for IEEE Transactions on Human-Machine Systems, EAI MobiQuitous, Sensors Journal
