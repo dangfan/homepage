@@ -15,7 +15,7 @@ social:
     link: https://scholar.google.com/citations?user=A4G6tEYAAAAJ
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0002-9949-6987
+    link: https://orcid.org/0000-0002-9949-6987
   - icon: github
     icon_pack: fab
     link: https://github.com/dangfan
