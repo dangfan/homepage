@@ -15,6 +15,8 @@ subtitle:
 design:
   columns: '2'
 ---
+-   **Oct. 12, 2022**
+    Out new paper was accepted by **CML-IoT 2022**.
 
 -   **Sep. 25, 2022**
     Our new paper was accepted by **IEEE ICPADS 2022**.
