@@ -15,6 +15,10 @@ subtitle:
 design:
   columns: '2'
 ---
+
+-   **Dec. 2, 2022**
+    Our two papers about TSN and the Industrial Internet were accepted by **IEEE INFOCOM 2023**.
+
 -   **Oct. 12, 2022**
     Out new paper was accepted by **CML-IoT 2022**.
 
