@@ -16,6 +16,9 @@ design:
   columns: '2'
 ---
 
+-   **Jan. 14, 2023**
+    Fan DANG gave a talk on Equipment Area Network (EAN) at Industrial Internet Forum, CWSN 2022.
+
 -   **Dec. 2, 2022**
     Our two papers about TSN and the Industrial Internet were accepted by **IEEE INFOCOM 2023**.
 
