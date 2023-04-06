@@ -6,6 +6,7 @@ authors:
 - Lingkun Li
 - admin
 date: "2022-12-14T00:00:00Z"
+doi: "10.1109/ICPADS56603.2022.00053"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
