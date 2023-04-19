@@ -18,9 +18,9 @@ design:
   columns: '2'
 ---
 
--   Publication Co-Chair of ACM TURC 2023, 2021, 2020
+-   Associate Editor of ACM TOSN
 
--   Mentor of [Open Source Promotion Plan](https://summer.iscas.ac.cn/) 2022, 2021, 2020
+-   Publication Co-Chair of ACM TURC 2023, 2021, 2020
 
 -   Session Chair of IEEE ICPADS 2022
 
@@ -29,3 +29,5 @@ design:
 -   TPC Member of IEEE INFOCOM 2020
 
 -   Reviewer for ACM IMWUT, IEEE THMS, JCST, Cluster Computing, EAI MobiQuitous, Sensors Journal
+
+-   Mentor of [Open Source Promotion Plan](https://summer.iscas.ac.cn/) 2022, 2021, 2020
