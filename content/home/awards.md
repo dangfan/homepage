@@ -18,6 +18,8 @@ design:
   columns: '2'
 ---
 
+-  **2023** CCF Senior Member
+
 -  **2022** Best paper award of the CPD workshop at Ubicomp 2022
 
 -  **2019** ACM SIGCOMM China Doctoral Dissertation Award

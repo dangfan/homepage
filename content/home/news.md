@@ -16,8 +16,20 @@ design:
   columns: '2'
 ---
 
+-   **Sep. 28, 2023**
+    Fan DANG was elected a senior member of CCF.
+
+-   **Sep. 11, 2023**
+    Fan DANG presented the paper entitled “LSTM-Driven Scheduling for Energy-Efficient Crop Monitoring in Wireless Networks” at **AgriSECON 2023**.
+
+-   **Aug., 2023**
+    Fan DANG was invited to serve as TPC members of **IEEE ICPADS 2023** and **IEEE MSN 2023**.
+
+-   **Jun., 2023**
+    Our three posters were accepted by **ACM TURC 2023**.
+
 -   **Jan. 14, 2023**
-    Fan DANG gave a talk on Equipment Area Network (EAN) at Industrial Internet Forum, CWSN 2022.
+    Fan DANG gave a talk on Equipment Area Network (EAN) at Industrial Internet Forum, **CWSN 2022**.
 
 -   **Dec. 2, 2022**
     Our two papers about TSN and the Industrial Internet were accepted by **IEEE INFOCOM 2023**.
@@ -36,12 +48,3 @@ design:
 
 -   **Apr. 5, 2022**
     Our new paper was accepted by **IEEE ICDCS 2022**.
-
--   **Dec. 4, 2021**
-    Our new paper was accepted by **IEEE INFOCOM 2022**.
-
--   **Nov. 6, 2021**
-    Fan DANG submitted [an RFC draft](https://datatracker.ietf.org/doc/draft-dang-webauthn-sm2/) about using SM2 in WebAuthn.
-
--   **Oct. 13, 2021**
-    Fan DANG gave a talk on TSN (time sensitive networking) at Yuzhou Big Data Lab.

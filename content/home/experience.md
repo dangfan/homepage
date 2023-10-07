@@ -44,7 +44,7 @@ experience:
     # company_logo: tsinghua
     location: Beijing, China
     date_start: '2015-11-01'
-    date_end: ''
+    date_end: '2022-12-31'
 
   - title: Bachelor & Ph.D.
     company: Tsinghua University
