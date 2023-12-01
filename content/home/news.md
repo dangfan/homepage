@@ -16,6 +16,9 @@ design:
   columns: '2'
 ---
 
+-   **Dec. 1, 2023**
+    Our three research papers were accepted by **IEEE INFOCOM 2024**.
+
 -   **Sep. 28, 2023**
     Fan DANG was elected a senior member of CCF.
 
