@@ -10,7 +10,7 @@ authors:
 - Zeyu Wang
 - Yunhao Liu
 date: "2023-01-20T00:00:00Z"
-#doi: "10.1109/INFOCOM48880.2022.9796933"
+doi: "10.1109/INFOCOM53939.2023.10228980"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
