@@ -26,6 +26,6 @@ design:
 
 -   Session Chair of IEEE ICPADS 2022, IEEE INFOCOM 2020
 
--   Reviewer for ACM IMWUT, IEEE THMS, JCST, Cluster Computing, EAI MobiQuitous, Sensors Journal
+-   Reviewer for ACM IMWUT, IEEE TCC/TNSE/THMS, JCST, Cluster Computing, EAI MobiQuitous, Sensors Journal
 
 -   Mentor of [Open Source Promotion Plan](https://summer.iscas.ac.cn/) 2023, 2022, 2021, 2020
