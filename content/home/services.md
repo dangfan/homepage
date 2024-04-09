@@ -18,9 +18,9 @@ design:
   columns: '2'
 ---
 
--   Associate Editor of ACM TOSN
+-   Associate Editor of ACM TOSN, Tsinghua Science and Technology
 
--   Publication Co-Chair of ACM TURC 2023, 2021, 2020
+-   Publication Co-Chair of ACM TURC 2024, 2023, 2021, 2020
 
 -   TPC Member of IEEE ICPADS 2023, IEEE MSN 2023, IEEE INFOCOM 2020
 
