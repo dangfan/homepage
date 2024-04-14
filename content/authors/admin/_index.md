@@ -1,11 +1,10 @@
 ---
 title: Fan DANG
 role: Research Assistant Professor
-bio: My research interests include AIoT, edge computing, and mobile security.
+bio: My research interests include industrial intelligence and edge computing.
 interests:
-  - AIoT
+  - Industrial Intelligence
   - Edge Computing
-  - Mobile Security
 social:
   - icon: envelope
     icon_pack: fas
