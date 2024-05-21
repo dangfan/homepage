@@ -33,6 +33,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Fan DANG (党凡) is currently a research assistant professor (助理研究员) at [Global Innovation Exchange (GIX)](https://gix.tsinghua.edu.cn). He was previously a postdoctoral research fellow at the School of Software, Tsinghua University, in collaboration with [Prof. Yunhao Liu](http://people.gix.tsinghua.edu.cn/yunhao/en.html). He received his B.E. and Ph.D. degrees from Tsinghua University in 2013 and 2018.
+Fan DANG (党凡) is currently a research assistant professor (助理研究员) at [Global Innovation Exchange (GIX)](https://gix.tsinghua.edu.cn). He was previously a postdoctoral research fellow at the School of Software, Tsinghua University. He received his B.E. and Ph.D. degrees from Tsinghua University in 2013 and 2018.
 
 He is a fan of open source and proudly a member of [TUNA](https://tuna.moe/).

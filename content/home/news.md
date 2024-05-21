@@ -16,24 +16,25 @@ design:
   columns: '2'
 ---
 
+-   **Apr., 2024**
+    A full paper and a workshop paper are accepted by **ACM MobiSys 2024**.
+
 -   **Dec. 1, 2023**
     Our three research papers were accepted by **IEEE INFOCOM 2024**.
 
 -   **Sep. 28, 2023**
     Fan DANG was elected a senior member of CCF.
 
--   **Sep. 11, 2023**
-    Fan DANG presented the paper entitled “LSTM-Driven Scheduling for Energy-Efficient Crop Monitoring in Wireless Networks” at **AgriSECON 2023**.
-
 -   **Aug., 2023**
     Fan DANG was invited to serve as TPC members of **IEEE ICPADS 2023** and **IEEE MSN 2023**.
 
 -   **Jun., 2023**
-    Our three posters were accepted by **ACM TURC 2023**.
+    Our four posters were accepted by **ACM TURC 2023**.
 
 -   **Jan. 14, 2023**
     Fan DANG gave a talk on Equipment Area Network (EAN) at Industrial Internet Forum, **CWSN 2022**.
 
+<!--
 -   **Dec. 2, 2022**
     Our two papers about TSN and the Industrial Internet were accepted by **IEEE INFOCOM 2023**.
 
@@ -51,3 +52,4 @@ design:
 
 -   **Apr. 5, 2022**
     Our new paper was accepted by **IEEE ICDCS 2022**.
+-->
