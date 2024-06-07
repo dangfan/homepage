@@ -22,6 +22,8 @@ design:
 
 -   Publication Co-Chair of ACM TURC 2024, 2023, 2021, 2020
 
+-   Program Co-Chair of ACM SenSys 2024 RMELS Workshop
+
 -   TPC Member of IEEE ICPADS 2023, IEEE MSN 2023, IEEE INFOCOM 2020
 
 -   Session Chair of IEEE ICPADS 2022, IEEE INFOCOM 2020
