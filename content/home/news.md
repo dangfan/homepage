@@ -16,6 +16,12 @@ design:
   columns: '2'
 ---
 
+-   **Oct., 2024**
+    Fan DANG was elected a senior member of IEEE.
+
+-   **July, 2023**
+    Fan DANG was invited to serve as TPC members of **IEEE ICPADS 2024** and **IEEE MSN 2024**.
+
 -   **Apr., 2024**
     A full paper and a workshop paper are accepted by **ACM MobiSys 2024**.
 

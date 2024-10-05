@@ -18,6 +18,8 @@ design:
   columns: '2'
 ---
 
+-  **2024** IEEE Senior Member
+
 -  **2023** CCF Senior Member
 
 -  **2022** Best paper award of the CPD workshop at Ubicomp 2022
