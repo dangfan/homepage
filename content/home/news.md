@@ -16,6 +16,9 @@ design:
   columns: '2'
 ---
 
+-   **Dec., 2024**
+    Our two research papers were accepted by **IEEE INFOCOM 2025**.
+
 -   **Oct., 2024**
     Fan DANG was elected a senior member of IEEE.
 
