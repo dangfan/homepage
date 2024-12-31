@@ -1,6 +1,6 @@
 ---
 title: Fan DANG
-role: Research Assistant Professor
+role: Assistant Professor
 bio: My research interests include industrial intelligence and edge computing.
 interests:
   - Industrial Intelligence
@@ -19,8 +19,8 @@ social:
     icon_pack: fab
     link: https://github.com/dangfan
 organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn
+  - name: Beijing Jiaotong University
+    url: https://www.bjtu.edu.cn
 education:
   courses:
     - course: Ph.D. in Software Engineering
@@ -33,6 +33,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Fan DANG (党凡) is currently a research assistant professor (助理研究员) at [Global Innovation Exchange (GIX)](https://gix.tsinghua.edu.cn). He was previously a postdoctoral research fellow at the School of Software, Tsinghua University. He received his B.E. and Ph.D. degrees from Tsinghua University in 2013 and 2018.
+Fan DANG (党凡) is currently an assistant professor at the [School of Software, Beijing Jiaotong University](http://sse.bjtu.edu.cn). He was previously a research assistant professor at the Global Innovation eXchange (GIX), Tsinghua University, and a postdoctoral research fellow at the School of Software, Tsinghua University. He received his B.E. and Ph.D. degrees from Tsinghua University in 2013 and 2018.
 
 He is a fan of open source and proudly a member of [TUNA](https://tuna.moe/).

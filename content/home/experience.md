@@ -22,37 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: Beijing Jiaotong University
+    company_url: ''
+    company_logo: bjtu
+    location: Beijing, China
+    date_start: '2024-12'
+    date_end: ''
+
   - title: Research Assistant Professor
     company: Tsinghua University
     company_url: ''
     company_logo: tsinghua
     location: Beijing, China
-    date_start: '2022-01-01'
-    date_end: ''
+    date_start: '2022-01'
+    date_end: '2024-12'
 
   - title: Postdoctoral Research Fellow
     company: Tsinghua University
     company_url: ''
     company_logo: tsinghua
     location: Beijing, China
-    date_start: '2018-12-01'
-    date_end: '2021-12-31'
+    date_start: '2018-12'
+    date_end: '2021-12'
 
   - title: CTO
     company: Fayfans Technology
     company_url: ''
     # company_logo: tsinghua
     location: Beijing, China
-    date_start: '2015-11-01'
-    date_end: '2022-12-31'
+    date_start: '2015-11'
+    date_end: '2022-12'
 
   - title: Bachelor & Ph.D.
     company: Tsinghua University
     company_url: ''
     company_logo: tsinghua
     location: Beijing, China
-    date_start: '2009-08-01'
-    date_end: '2018-10-31'
+    date_start: '2009-08'
+    date_end: '2018-10'
 
 design:
   columns: '2'
