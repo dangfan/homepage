@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: bjtu
     location: Beijing, China
-    date_start: '2024-12'
+    date_start: '2024-12-27'
     date_end: ''
 
   - title: Research Assistant Professor
@@ -35,32 +35,32 @@ experience:
     company_url: ''
     company_logo: tsinghua
     location: Beijing, China
-    date_start: '2022-01'
-    date_end: '2024-12'
+    date_start: '2022-01-01'
+    date_end: '2024-12-26'
 
   - title: Postdoctoral Research Fellow
     company: Tsinghua University
     company_url: ''
     company_logo: tsinghua
     location: Beijing, China
-    date_start: '2018-12'
-    date_end: '2021-12'
+    date_start: '2018-12-01'
+    date_end: '2021-12-31'
 
   - title: CTO
     company: Fayfans Technology
     company_url: ''
     # company_logo: tsinghua
     location: Beijing, China
-    date_start: '2015-11'
-    date_end: '2022-12'
+    date_start: '2015-11-01'
+    date_end: '2022-12-31'
 
   - title: Bachelor & Ph.D.
     company: Tsinghua University
     company_url: ''
     company_logo: tsinghua
     location: Beijing, China
-    date_start: '2009-08'
-    date_end: '2018-10'
+    date_start: '2009-08-01'
+    date_end: '2018-10-31'
 
 design:
   columns: '2'
