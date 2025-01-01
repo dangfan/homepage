@@ -33,6 +33,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Fan DANG (党凡) is currently an assistant professor at the [School of Software, Beijing Jiaotong University](http://sse.bjtu.edu.cn). He was previously a research assistant professor at the Global Innovation eXchange (GIX), Tsinghua University, and a postdoctoral research fellow at the School of Software, Tsinghua University. He received his B.E. and Ph.D. degrees from Tsinghua University in 2013 and 2018.
+Fan DANG (党凡) is currently an assistant professor at the [School of Software Engineering, Beijing Jiaotong University](http://sse.bjtu.edu.cn). He was previously a research assistant professor at the Global Innovation eXchange (GIX), Tsinghua University, and a postdoctoral research fellow at the School of Software, Tsinghua University. He received his B.E. and Ph.D. degrees from Tsinghua University in 2013 and 2018.
 
 He is a fan of open source and proudly a member of [TUNA](https://tuna.moe/).
