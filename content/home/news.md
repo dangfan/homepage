@@ -15,6 +15,8 @@ subtitle:
 design:
   columns: '2'
 ---
+-   **Jan., 2025**
+    Our research paper was accepted by **ACM MMSys 2025**.
 
 -   **Dec., 2024**
     Our two research papers were accepted by **IEEE INFOCOM 2025**.
