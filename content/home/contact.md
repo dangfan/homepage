@@ -18,7 +18,7 @@ content:
   # Contact details (edit or remove options as required)
   email: i@dang.fan
   address:
-    street: 11-205, East Main Building, Tsinghua University
+    street: Room 811 (West Wing), Yi Fu Building, Beijing Jiaotong University
     city: Beijing
     country: China
   contact_links:
