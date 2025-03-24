@@ -27,6 +27,6 @@ abstract: "Automated Fare Collection (AFC) systems have been globally deployed f
 # Summary. An optional shortened abstract.
 summary: Automated Fare Collection (AFC) systems have been globally deployed for decades, particularly in the public transportation network where the transit fee is calculated based on the length of the trip. In this paper, we identify a novel paradigm of attacks, called LessPay, against modern distance-based pricing AFC systems, enabling users to pay much less than what they are supposed to be charged.
 
-featured: true
+featured: false
 
 ---

@@ -22,7 +22,7 @@ abstract: As the most widely applied public-key cryptographic algorithm, RSA is 
 # Summary. An optional shortened abstract.
 # summary: 
 
-featured: true
+featured: false
 url_slides: 'publication/icpads21-xrsa/icpads21-xrsa-slides.pdf'
 url_video: 'https://youtu.be/qikDbr9ej1g'
 
