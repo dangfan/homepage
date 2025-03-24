@@ -26,5 +26,5 @@ publication_short: In *IEEE INFOCOM 2024*
 abstract: "Bluetooth Low Energy (BLE) is a prevalent technology in various applications due to its low power consumption and wide device compatibility. Despite its numerous advantages, the encryption methods of BLE often expose devices to potential attacks. To fortify security, we investigate the application of Physical-layer Key Generation (PKG), a promising technology that enables devices to generate a shared secret key from their shared physical environment. We propose a distinctive approach that capitalizes on the inherent characteristics of BLE to facilitate efficient PKG. We harness the constant tone extension within BLE protocols to extract comprehensive physical layer information and introduce an innovative method that employs Legendre polynomial quantization for PKG. This method facilitates the exchange of secret keys with a high key matching rate and a high key generation rate. The efficacy of our approach is validated through extensive experiments on a software-defined radio platform, underscoring its potential to enhance security in the rapidly expanding field of BLE applications."
 
 featured: true
-
+url_slides: 'publication/infocom24-bluekey/infocom24-bluekey.pptx'
 ---
