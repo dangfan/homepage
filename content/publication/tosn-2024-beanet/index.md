@@ -2,7 +2,7 @@
 title: "BEANet: An Energy-efficient BLE Solution for High-capacity Equipment Area Network"
 authors:
 - Yifan Xu
-- Fan Dang
+- admin
 - Kebin Liu
 - Zhui Zhu
 - Xinlei Chen

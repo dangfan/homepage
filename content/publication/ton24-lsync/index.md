@@ -1,7 +1,7 @@
 ---
 title: "LSync: A Universal Timeline-Synchronizing Solution for Live Streaming"
 authors:
-- Fan Dang
+- admin
 - Yifan Xu
 - Rongwu Xu
 - Xinlei Chen

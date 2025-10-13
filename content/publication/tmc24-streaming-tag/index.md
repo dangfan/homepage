@@ -1,7 +1,7 @@
 ---
 title: "StreamingTag: A Scalable Piracy Tracking Solution for Mobile Streaming Services"
 authors:
-- Fan Dang
+- admin
 - Xinqi Jin
 - Qi-An Fu
 - Lingkun Li

@@ -6,7 +6,7 @@ authors:
 - Haoyang Wang
 - Fanhang Man
 - Jingao Xu
-- Fan Dang
+- admin
 - Chaopeng Hong
 - Yunhao Liu
 - Xiao-Ping Zhang

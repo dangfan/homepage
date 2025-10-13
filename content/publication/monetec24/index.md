@@ -1,7 +1,7 @@
 ---
 title: "An Anonymous Authentication Scheme Based on Blind Signatures for the FIDO Protocol"
 authors:
-- Fan Dang
+- admin
 - Xikai Sun
 - Kebin Liu
 - Xuan Ding

@@ -10,7 +10,7 @@ authors:
 - Yunzhi Chen
 - Lijun Hu
 - Wenqiang Zhang
-- Fan Dang
+- admin
 date: "2024-12-01T00:00:00Z"
 doi: "10.1109/ICPADS63350.2024.00042"
 

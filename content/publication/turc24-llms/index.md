@@ -3,7 +3,7 @@ title: "Integration of LLMs and the Physical World: Research and Application"
 authors:
 - Xiaoyu Luo
 - Daping Liu
-- Fan Dang
+- admin
 - Hanjiang Luo
 date: "2024-07-05T00:00:00Z"
 doi: "10.1145/3662007.3663883"

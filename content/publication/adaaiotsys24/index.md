@@ -3,7 +3,7 @@ title: "Enhancing Physical-Layer Key Generation Accuracy through Deep Learning-B
 authors:
 - Yawen Zheng
 - Xu Wang
-- Fan Dang
+- admin
 - Xin Miao
 date: "2024-06-07T00:00:00Z"
 doi: "10.1145/3662007.3663883"

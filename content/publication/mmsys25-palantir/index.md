@@ -4,7 +4,7 @@ authors:
 - Xinqi Jin
 - Zhui Zhu
 - Xikai Sun
-- Fan Dang
+- admin
 - Jiangchuan Liu
 - Jingao Xu
 - Kebin Liu

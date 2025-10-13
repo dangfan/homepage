@@ -6,7 +6,7 @@ authors:
 - Yuhan Cheng
 - Haohao Fu
 - Yuxuan Liu
-- Fan Dang
+- admin
 - Yunhao Liu
 - Jinqiang Cui
 - Xinlei Chen
