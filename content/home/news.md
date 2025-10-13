@@ -15,6 +15,12 @@ subtitle:
 design:
   columns: '2'
 ---
+-   **Oct., 2025**
+    PICASSO 2025 was successfully held in Espoo, Finland.
+
+-   **Sept. 2025**
+    Our research paper was accepted by **IEEE TIFS**.
+
 -   **Jan., 2025**
     Our research paper was accepted by **ACM MMSys 2025**.
 
@@ -24,6 +30,7 @@ design:
 -   **Oct., 2024**
     Fan DANG was elected a senior member of IEEE.
 
+<!--
 -   **July, 2023**
     Fan DANG was invited to serve as TPC members of **IEEE ICPADS 2024** and **IEEE MSN 2024**.
 
@@ -45,7 +52,6 @@ design:
 -   **Jan. 14, 2023**
     Fan DANG gave a talk on Equipment Area Network (EAN) at Industrial Internet Forum, **CWSN 2022**.
 
-<!--
 -   **Dec. 2, 2022**
     Our two papers about TSN and the Industrial Internet were accepted by **IEEE INFOCOM 2023**.
 
