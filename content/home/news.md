@@ -15,6 +15,9 @@ subtitle:
 design:
   columns: '2'
 ---
+-   **Dec., 2025**
+    Fan DANG joined as the executive committee member of ACM SIGBED China.
+
 -   **Oct., 2025**
     PICASSO 2025 was successfully held in Espoo, Finland.
 
