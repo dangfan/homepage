@@ -30,7 +30,6 @@ experience:
     date_start: '2026-02-01'
     date_end: ''
 
-experience:
   - title: Assistant Professor
     company: Beijing Jiaotong University
     company_url: ''
