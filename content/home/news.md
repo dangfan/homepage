@@ -15,6 +15,9 @@ subtitle:
 design:
   columns: '2'
 ---
+-   **Jan., 2026**
+    Our research paper was accepted by **ICLR 2026**.
+
 -   **Dec., 2025**
     Fan DANG joined as the executive committee member of ACM SIGBED China.
 
